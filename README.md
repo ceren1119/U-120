@@ -12,9 +12,9 @@ Ayşenur Uyanık: Team Member/Developer
 Enigma Dreams  
 
 # Ürün Açıklaması:
-Aphelion, oyuncuyu tasarımı ile içine çekerken hikayesi ile de dar koridorlarında dolaşmayı bir merak unsuruna çeviren birinci şahış korku/gerilim oyunudur.
+?
 # Ürün Özellikleri: 
- tür olması  
+ .....tür olması  
 Hikaye bazlı oynanış  
 Oyuncuya seçim şansı verebilme  
 Kolay kontroller  
