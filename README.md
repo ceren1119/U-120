@@ -9,7 +9,7 @@ Batın Şepir: Team Member/Developer
 Mürsel Özata: Team Member/Developer  
 Ayşenur Uyanık: Team Member/Developer  
 # Ürün İsmi:
-xxxxxx  
+Enigma Dreams  
 
 # Ürün Açıklaması:
 Aphelion, oyuncuyu tasarımı ile içine çekerken hikayesi ile de dar koridorlarında dolaşmayı bir merak unsuruna çeviren birinci şahış korku/gerilim oyunudur.
