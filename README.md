@@ -1,5 +1,5 @@
 # Takım İsmi
-xxxxxxxx 
+Rookies
 
 # Ürün İle İlgili Bilgiler:
 ## Takım Elemanları ## 
