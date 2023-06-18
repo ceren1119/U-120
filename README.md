@@ -48,6 +48,9 @@ https://trello.com/b/9XpBXaFV/enigma-dreams
 
 ![image](https://github.com/ceren1119/U-120/assets/111146737/c10bddcf-5aae-4628-97cb-a0cf47cb1e64)
 
+![image](https://github.com/ceren1119/U-120/assets/111146737/b246bf11-a22d-4715-91b8-9e79e82becbf)
+
+
 
 
 - Sprint Review: Hikayeye karar verilmiş,tasarımı yapılmaya başlamış ve temel mekanikleri kodlanmaya başlamıştır.Sprint Review katılımcıları: Ceren, Ada, Ayşenur, Mürsel,Batın.
