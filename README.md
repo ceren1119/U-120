@@ -32,7 +32,7 @@ https://trello.com/b/9XpBXaFV/enigma-dreams
   
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği  word olarak Readme'de tarafımızdan paylaşılmaktadır.  https://docs.google.com/document/d/1sCLV89UllARIb-WAGqcc8DsLzhFakEJg/edit?usp=sharing&ouid=107666199212938823146&rtpof=true&sd=true 
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği  word olarak Readme'de tarafımızdan paylaşılmaktadır.  https://docs.google.com/document/d/1sCLV89UllARIb-WAGqcc8DsLzhFakEJg/edit?usp=sharing&ouid=107666199212938823146&rtpof=true&sd=true
 
 - Sprint board update: Sprint board screenshotları:
 - ![image](https://github.com/ceren1119/U-120/assets/111146737/1030972a-972a-4601-9738-e42d79aa9441)
