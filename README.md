@@ -60,6 +60,10 @@ https://trello.com/b/9XpBXaFV/enigma-dreams
   * Oyunu daha iyi yansıtacak assetlerin bulunmasına öncelik verilmiştir.
   * Daily Scrumlar için daha sık toplanılmasına karar verilmiştir.
     
+  # SPRINT 2
   
-
+- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği  word olarak Readme'de tarafımızdan paylaşılmaktadır.
+  
 
