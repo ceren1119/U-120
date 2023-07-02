@@ -62,13 +62,14 @@ https://trello.com/b/9XpBXaFV/enigma-dreams
     
   # SPRINT 2
 
-  ## Product Backlog URL:https://trello.com/b/9XpBXaFV/enigma-dreams
+  ## Product Backlog URL:
+  https://trello.com/b/9XpBXaFV/enigma-dreams
   
 - Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in de en azından 100 ile devam etmesi gerektiğine karar verildi.
   
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği  word olarak Readme'de tarafımızdan paylaşılmaktadır. https://docs.google.com/document/d/1_dwAZQp2l0-27YE6GIBSukROdLOcTpW5--aBZ1TUfrg/edit?usp=sharing
-- 
+  
 - Sprint board update: Sprint board screenshotları:![image](https://github.com/ceren1119/U-120/assets/111146737/66bb82bd-0d01-4a64-b4a1-5a9e16d12995)
 ![image](https://github.com/ceren1119/U-120/assets/111146737/c7c64667-f3ae-4943-ac95-821dc529fc99)
 ![image](https://github.com/ceren1119/U-120/assets/111146737/e7a0f43c-f349-4dd9-bb44-65da7042a49a)
