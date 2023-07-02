@@ -62,11 +62,38 @@ https://trello.com/b/9XpBXaFV/enigma-dreams
     
   # SPRINT 2
 
-  ## Product Backlog URL:
+  ## Product Backlog URL:https://trello.com/b/9XpBXaFV/enigma-dreams
   
 - Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in de en azından 100 ile devam etmesi gerektiğine karar verildi.
-- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği  word olarak Readme'de tarafımızdan paylaşılmaktadır.
-- Sprint board update: Sprint board screenshotları:
-- Ürün Durumu: Ekran görüntüleri:
+  
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği  word olarak Readme'de tarafımızdan paylaşılmaktadır. https://docs.google.com/document/d/1_dwAZQp2l0-27YE6GIBSukROdLOcTpW5--aBZ1TUfrg/edit?usp=sharing
+- 
+- Sprint board update: Sprint board screenshotları:![image](https://github.com/ceren1119/U-120/assets/111146737/66bb82bd-0d01-4a64-b4a1-5a9e16d12995)
+![image](https://github.com/ceren1119/U-120/assets/111146737/c7c64667-f3ae-4943-ac95-821dc529fc99)
+![image](https://github.com/ceren1119/U-120/assets/111146737/e7a0f43c-f349-4dd9-bb44-65da7042a49a)
+![image](https://github.com/ceren1119/U-120/assets/111146737/64b54b60-3f70-4552-b0cf-742b02462c74)
+![image](https://github.com/ceren1119/U-120/assets/111146737/37be6f06-9386-42cc-868b-0afc24aed2e9)
 
+
+- Ürün Durumu: Ekran görüntüleri:
+ 
+![maphamtaslak](https://github.com/ceren1119/U-120/assets/111146737/d5dad9aa-37c4-4557-aaff-77a66c31910a)
+
+![maptaslak7](https://github.com/ceren1119/U-120/assets/111146737/8499fb53-8905-4f70-9528-940a44861437)
+
+![WhatsApp Görsel 2023-07-02 saat 23 29 38](https://github.com/ceren1119/U-120/assets/111146737/d8171b02-c9be-45ea-9efc-c7f42ebfe9c0)
+
+![WhatsApp Görsel 2023-07-02 saat 23 29 39](https://github.com/ceren1119/U-120/assets/111146737/2cfe1881-9455-44c9-b724-b2baafde21e4)
+
+![11](https://github.com/ceren1119/U-120/assets/111146737/b75aad9b-fec8-4f04-a763-9778dbf99340)
+![22](https://github.com/ceren1119/U-120/assets/111146737/92cc967e-0364-4b4e-8545-5423fd54320d)
+![ev](https://github.com/ceren1119/U-120/assets/111146737/38446908-652c-4844-832b-0ec2b8a71e34)
+![ev2](https://github.com/ceren1119/U-120/assets/111146737/cc654274-d1a1-420e-b595-97977d1da303)
+
+- Sprint Review: Oyun mekaniklerinde ilerlenmiş bununla beraber map ve bölümlerin tasarımına başlanmış,assetleri bulunmuştur.Mapin böümleri için mini gameler yapılmıştır.Sprint Review katılımcıları: Ceren, Ada, Ayşenur, Mürsel,Batın.
+ 
+- Sprint Retrospective:
+  * Yapılacak görevlerin hızlandırılmasına dikkat çekilmiş aktiflik vurgulanmıştır.
+  * Takım içinde görev paylaşımı için daha aktif olunmasına karar verilmiştir.
+  * Bayramdan kaynaklı daily scrumların aksaklığına dikkat çekilmiştir.
