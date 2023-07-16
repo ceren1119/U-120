@@ -101,7 +101,8 @@ https://trello.com/b/9XpBXaFV/enigma-dreams
 
 
     # SPRINT 3
- 
+    
+ https://trello.com/b/9XpBXaFV/enigma-dreams
 - Sprint içinde tamamlanması tahmin edilen puan: 150 Puan
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in de en azından 150 ile devam etmesi gerektiğine karar verildi.
   
