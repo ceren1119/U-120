@@ -98,3 +98,22 @@ https://trello.com/b/9XpBXaFV/enigma-dreams
   * Yapılacak görevlerin hızlandırılmasına dikkat çekilmiş aktiflik vurgulanmıştır.
   * Takım içinde görev paylaşımı için daha aktif olunmasına karar verilmiştir.
   * Bayramdan kaynaklı daily scrumların aksaklığına dikkat çekilmiştir.
+
+
+    # SPRINT 3
+ 
+- Sprint içinde tamamlanması tahmin edilen puan: 150 Puan
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in de en azından 150 ile devam etmesi gerektiğine karar verildi.
+  
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği  word olarak Readme'de tarafımızdan paylaşılmaktadır. https://docs.google.com/document/d/1xMX-vVw9CsK3jmm5LWDze-bJyufULt33Cmp24giJDxs/edit?usp=sharing
+
+- Sprint board update: Sprint board screenshotları:
+ ![image](https://github.com/ceren1119/U-120/assets/111146737/59717e41-14ec-41d4-9dc2-ac017b5759e5)
+ ![image](https://github.com/ceren1119/U-120/assets/111146737/81569aca-dfd5-49c8-9dd9-f1ce0e0a4dda)
+![image](https://github.com/ceren1119/U-120/assets/111146737/05fb34ec-3cd9-4138-a354-c0cb028b8149)
+
+  - Ürün Durumu: Ekran görüntüleri:
+  - Sprint Review:
+  - Notlar: Takımdaki iletişim sıkıntısından dolayı toplantı yapılamamış ve ürün görüntüleri eklenememiştir. 
+
+
