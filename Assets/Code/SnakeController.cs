@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,6 +7,10 @@ namespace MiniGame
 {
     public class SnakeController : MonoBehaviour
     {
+        [SerializeField] private GameObject finishPanel;
+        [SerializeField] private Transform bodyParent;
+        [SerializeField] private float startOffset;
+        
         public float MoveSpeed = 1;
         public float SteerSpeed = 40;
         public float BodySpeed = 1;
@@ -15,8 +20,14 @@ namespace MiniGame
         private List<GameObject> BodyParts = new List<GameObject>();
         private List<Vector3> PositionsHistory = new List<Vector3>();
 
-
-
+        private void OnTriggerEnter(Collider other)
+        {
+            if (other.CompareTag("Body"))
+            {
+                Time.timeScale = 0;
+                finishPanel.SetActive(true);
+            }
+        }
 
         // Update is called once per frame
         void Update()
@@ -29,7 +40,7 @@ namespace MiniGame
             transform.Rotate(Vector3.up * steerDirection * SteerSpeed * Time.deltaTime);
 
             // store position history
-            PositionsHistory.Insert(0, transform.position);
+            PositionsHistory.Insert(0, transform.position - transform.forward * startOffset);
 
             // move body parts
             int index = 0;
@@ -46,7 +57,8 @@ namespace MiniGame
 
         public void GrowSnake()
         {
-            GameObject body = Instantiate(BodyPrefab);
+            GameObject body = Instantiate(BodyPrefab, bodyParent);
+            body.GetComponent<Body>().Initiate();
             BodyParts.Add(body);
         }
     }

@@ -110,3 +110,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0af3a19221272464ca75042e889d76e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  xRange: {x: -8, y: 8}
+  yRange: {x: -4, y: 4}
+  yPos: 0.5

@@ -6,7 +6,7 @@ namespace MiniGame
 {
     public class Wall : MonoBehaviour
     {
-        public GameObject resultPanel; // Sonuç ekranýný temsil eden bir GameObject referansý
+        [SerializeField] GameObject resultPanel; // Sonuï¿½ ekranï¿½nï¿½ temsil eden bir GameObject referansï¿½
 
         private void OnTriggerEnter(Collider other)
         {
@@ -18,8 +18,8 @@ namespace MiniGame
 
         private void finishTheGame()
         {
-            Time.timeScale = 0f; // Oyunu durdur
-            resultPanel.SetActive(true); // Sonuç ekranýný etkinleþtir
+            Time.timeScale = 0;
+            resultPanel.SetActive(true); // Sonuï¿½ ekranï¿½nï¿½ etkinleï¿½tir
         }
     }
 

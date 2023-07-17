@@ -1,32 +1,36 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 namespace MiniGame
 {
     public class Menu : MonoBehaviour
     {
-
-        public void PlayButton()
+        [SerializeField] private Button startButton;
+        [SerializeField] private Button restartButton;
+        
+        private void Awake()
         {
-            SceneManager.LoadScene("Game");
+            startButton.onClick.AddListener(PlayButtonOnClick);
+            restartButton.onClick.AddListener(RestartButtonOnClick);
         }
 
-
-        public void ContinueButton()
+        private void Start()
         {
-            SceneManager.LoadScene(2);
+            Time.timeScale = 0;
         }
 
-        public void SettingsButton()
+        private void PlayButtonOnClick()
         {
-            SceneManager.LoadScene(3);
+            Time.timeScale = 1;
         }
 
-        public void CreditsButton()
+        private void RestartButtonOnClick()
         {
-            SceneManager.LoadScene(4);
+            SceneManager.LoadScene(0);
         }
     }
 
